@@ -5,7 +5,7 @@
 
 <a href="https://discord.com/users/612234238573543425"><img src="https://user-images.githubusercontent.com/77231874/236641042-b527a09f-5675-4fb4-8d25-ad01eda4d531.png" alt="Discord" /></a>
 
-
+<p> <img src="https://komarev.com/ghpvc/?username=aderfa&label=Profile%20views&color=0e75b6&style=flat" alt="aderfa" /> </p>
 ### This is My Website - [Botline.my.id](https://Botline.my.id)
 <!---
 aderfa/aderfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
