@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-mr.botline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.botline@gmail.com)](mailto:mr.botline@gmail.com)
 
-[![Spotify profile]([https://lanyard.cnrad.dev/api/612234238573543425)](https://discord.com/users/612234238573543425](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vh1p4z8adq1grrqnte2be8xn1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true))
+[![Spotify profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vh1p4z8adq1grrqnte2be8xn1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
 <br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/612234238573543425)](https://discord.com/users/612234238573543425)
 
